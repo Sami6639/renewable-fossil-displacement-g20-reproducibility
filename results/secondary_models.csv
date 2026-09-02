@@ -1,0 +1,11 @@
+outcome,predictor,n,events,estimate,clustered_se,p_value,ci_low,ci_high
+Additive expansion → fossil displacement,electricity_demand_growth_pct,156,42,0.04034058021,0.05737873476,0.4820195863,-0.07212173991,0.1528029003
+Additive expansion → fossil displacement,fossil_share_elec,156,42,-0.006102855939,0.2525043672,0.9807175593,-0.5010114157,0.4888057038
+Additive expansion → fossil displacement,net_elec_imports_share_demand,156,42,-0.1316959736,0.1106122487,0.2338069931,-0.348495981,0.08510403379
+Additive expansion → fossil displacement,wind_solar_share_elec,156,42,-0.01837764521,0.08708506268,0.8328631053,-0.1890643681,0.1523090776
+Additive expansion → fossil displacement,nuclear_share_elec,156,42,-0.4250151612,0.2194869397,0.05281836642,-0.855209563,0.005179240614
+Fossil displacement → fossil displacement,electricity_demand_growth_pct,145,65,0.02736428385,0.06214730504,0.6597102223,-0.09444443404,0.1491730017
+Fossil displacement → fossil displacement,fossil_share_elec,145,65,0.5847145017,0.4413885572,0.185265351,-0.2804070704,1.449836074
+Fossil displacement → fossil displacement,net_elec_imports_share_demand,145,65,0.08010100434,0.1393096696,0.5653012769,-0.1929459482,0.3531479568
+Fossil displacement → fossil displacement,wind_solar_share_elec,145,65,0.1835385291,0.1717936578,0.285355379,-0.1531770402,0.5202540984
+Fossil displacement → fossil displacement,nuclear_share_elec,145,65,-0.1245192871,0.3500254186,0.7220326229,-0.8105691076,0.5615305333

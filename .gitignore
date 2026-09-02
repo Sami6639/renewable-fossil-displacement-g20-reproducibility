@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Locally retrieved, checksum-verified source files
+data/raw/*.csv
+!data/raw/README.md
+
 # C extensions
 *.so
 

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the manuscript and this reproducibility repository."
+title: "Reproducibility materials for Renewable Addition and Fossil Displacement in G20 Power Systems"
+type: software
+authors:
+  - family-names: "Küçükoğlu"
+    given-names: "Sami"
+repository-code: "https://github.com/Sami6639/renewable-fossil-displacement-g20-reproducibility"
+url: "https://github.com/Sami6639/renewable-fossil-displacement-g20-reproducibility"
+version: 1.0.0
+date-released: 2026-09-02
+license: MIT
+keywords:
+  - renewable electricity
+  - fossil displacement
+  - G20
+  - power-system transition
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Renewable Addition and Fossil Displacement in G20 Power Systems: Regime Persistence and Transition Dynamics"
+  authors:
+    - family-names: "Küçükoğlu"
+      given-names: "Sami"
+  year: 2026
+  status: "Manuscript"
