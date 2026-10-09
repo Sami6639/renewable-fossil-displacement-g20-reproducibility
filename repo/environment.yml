@@ -1,8 +1,0 @@
-name: g20-power-repro
-channels:
-  - conda-forge
-dependencies:
-  - python=3.12
-  - numpy=2.3
-  - pandas=2.2
-  - matplotlib=3.10
