@@ -1,0 +1,88 @@
+country,start,end,duration,censored
+Argentina,2001,2001,1,False
+Argentina,2009,2009,1,False
+Argentina,2013,2013,1,False
+Argentina,2017,2018,2,False
+Argentina,2022,2023,2,False
+Australia,2002,2002,1,False
+Australia,2010,2011,2,False
+Australia,2013,2013,1,False
+Australia,2016,2016,1,False
+Australia,2018,2023,6,False
+Brazil,2002,2003,2,False
+Brazil,2005,2007,3,False
+Brazil,2009,2009,1,False
+Brazil,2011,2011,1,False
+Brazil,2016,2016,1,False
+Brazil,2018,2018,1,False
+Brazil,2020,2020,1,False
+Brazil,2022,2023,2,False
+Canada,2002,2002,1,False
+Canada,2004,2005,2,False
+Canada,2008,2008,1,False
+Canada,2012,2013,2,False
+Canada,2015,2017,3,False
+Canada,2020,2020,1,False
+Canada,2022,2022,1,False
+China,2015,2015,1,False
+France,2001,2001,1,False
+France,2004,2004,1,False
+France,2006,2006,1,False
+France,2008,2008,1,False
+France,2012,2013,2,False
+France,2018,2018,1,False
+France,2020,2020,1,False
+France,2023,2024,2,True
+Germany,2004,2004,1,False
+Germany,2008,2009,2,False
+Germany,2011,2011,1,False
+Germany,2014,2015,2,False
+Germany,2017,2020,4,False
+Germany,2023,2024,2,True
+India,2019,2020,2,False
+Indonesia,2020,2020,1,False
+Italy,2001,2001,1,False
+Italy,2008,2009,2,False
+Italy,2011,2014,4,False
+Italy,2018,2018,1,False
+Italy,2020,2020,1,False
+Italy,2023,2024,2,True
+Japan,2004,2004,1,False
+Japan,2006,2006,1,False
+Japan,2013,2015,3,False
+Japan,2017,2021,5,False
+Japan,2023,2024,2,True
+Mexico,2008,2008,1,False
+Mexico,2014,2014,1,False
+Mexico,2019,2021,3,False
+Mexico,2024,2024,1,True
+Russia,2001,2001,1,False
+Russia,2009,2009,1,False
+Russia,2013,2013,1,False
+Russia,2017,2017,1,False
+Russia,2020,2020,1,False
+Saudi Arabia,2018,2018,1,False
+South Africa,2009,2009,1,False
+South Africa,2013,2017,5,False
+South Africa,2019,2023,5,False
+South Korea,2014,2015,2,False
+South Korea,2019,2020,2,False
+South Korea,2022,2024,3,True
+Türkiye,2002,2002,1,False
+Türkiye,2004,2004,1,False
+Türkiye,2009,2010,2,False
+Türkiye,2013,2013,1,False
+Türkiye,2015,2015,1,False
+Türkiye,2018,2019,2,False
+Türkiye,2022,2022,1,False
+United Kingdom,2009,2009,1,False
+United Kingdom,2011,2015,5,False
+United Kingdom,2017,2020,4,False
+United Kingdom,2023,2024,2,True
+United States,2006,2006,1,False
+United States,2008,2009,2,False
+United States,2011,2011,1,False
+United States,2013,2013,1,False
+United States,2015,2017,3,False
+United States,2019,2020,2,False
+United States,2023,2023,1,False

@@ -1,0 +1,421 @@
+{
+  "commit": "e518a95082ba6f2b4df3b3eea433fb6752f35aac",
+  "n_panel": 475,
+  "n_countries": 19,
+  "state_counts": {
+    "Additive expansion": 178,
+    "Fossil displacement": 152,
+    "Fossil resurgence": 111,
+    "Joint contraction": 21,
+    "Boundary": 13
+  },
+  "episodes": 87,
+  "episode_length_counts": {
+    "1": 50,
+    "2": 23,
+    "3": 6,
+    "4": 3,
+    "5": 4,
+    "6": 1
+  },
+  "censored": 7,
+  "analyses": {
+    "2": {
+      "joint_continuity": {
+        "events": 37,
+        "n": 86,
+        "pct": 43.02325581395349,
+        "bootstrap_95_pct": [
+          33.84615384615385,
+          52.94117647058824
+        ],
+        "loco_pct": [
+          40.963855421686745,
+          45.67901234567901
+        ]
+      },
+      "fossil_continuity": {
+        "events": 42,
+        "n": 86,
+        "pct": 48.83720930232558,
+        "bootstrap_95_pct": [
+          39.4727575982209,
+          57.77777777777777
+        ],
+        "loco_pct": [
+          46.98795180722892,
+          51.85185185185185
+        ]
+      },
+      "endpoint_retention": {
+        "events": 62,
+        "n": 86,
+        "pct": 72.09302325581395,
+        "bootstrap_95_pct": [
+          62.88659793814433,
+          80.64516129032258
+        ],
+        "loco_pct": [
+          70.0,
+          74.07407407407408
+        ]
+      },
+      "fossil_minus_joint": {
+        "events": 5,
+        "n": 86,
+        "pct": 5.813953488372093,
+        "bootstrap_95_pct": [
+          2.17332865825152,
+          9.434599694033603
+        ],
+        "loco_pct": [
+          4.938271604938271,
+          6.41025641025641
+        ]
+      },
+      "endpoint_minus_joint": {
+        "events": 25,
+        "n": 86,
+        "pct": 29.069767441860463,
+        "bootstrap_95_pct": [
+          20.77922077922078,
+          36.03603603603604
+        ],
+        "loco_pct": [
+          26.923076923076923,
+          30.864197530864196
+        ]
+      },
+      "endpoint_minus_fossil": {
+        "events": 20,
+        "n": 86,
+        "pct": 23.25581395348837,
+        "bootstrap_95_pct": [
+          16.666666666666664,
+          28.888888888888886
+        ],
+        "loco_pct": [
+          21.794871794871796,
+          24.691358024691358
+        ]
+      },
+      "retention_given_joint_failure": {
+        "events": 25,
+        "n": 49,
+        "pct": 51.02040816326531,
+        "bootstrap_95_pct": [
+          38.46153846153847,
+          62.5
+        ],
+        "loco_pct": [
+          48.837209302325576,
+          53.191489361702125
+        ]
+      },
+      "magnitude": {
+        "change_pct_q25_median_q75": [
+          -9.42896848332685,
+          -4.079353044504347,
+          0.34174015359048626
+        ],
+        "sum_episode_change_twh": -1621.8403182599998,
+        "failure_change_pct_q25_median_q75": [
+          -4.2008574488719574,
+          -0.1419440270743796,
+          2.4747661016119986
+        ]
+      },
+      "trend": [
+        {
+          "exclude_2020": false,
+          "n": 86,
+          "country_clusters": 19,
+          "estimate_pp": 1.8781298834522089,
+          "se_pp": 0.9369097782522262,
+          "p_normal": 0.04500576476006283,
+          "p_t_clusters_minus_1": 0.0602855804108744
+        },
+        {
+          "exclude_2020": true,
+          "n": 80,
+          "country_clusters": 18,
+          "estimate_pp": 2.5281255319478193,
+          "se_pp": 0.8897789506376192,
+          "p_normal": 0.004493056261132029,
+          "p_t_clusters_minus_1": 0.01127964398664484
+        }
+      ],
+      "retention_sensitivity": {
+        "exclude_2020": {
+          "events": 59,
+          "n": 80,
+          "pct": 73.75,
+          "bootstrap_95_pct": [
+            65.38461538461539,
+            81.70731707317073
+          ],
+          "loco_pct": [
+            71.62162162162163,
+            75.34246575342466
+          ]
+        },
+        "0.001": {
+          "events": 62,
+          "n": 86,
+          "pct": 72.09302325581395,
+          "bootstrap_95_pct": [
+            62.88659793814433,
+            80.64516129032258
+          ],
+          "loco_pct": [
+            70.0,
+            74.07407407407408
+          ]
+        },
+        "0.0025": {
+          "events": 57,
+          "n": 86,
+          "pct": 66.27906976744185,
+          "bootstrap_95_pct": [
+            58.139534883720934,
+            74.02597402597402
+          ],
+          "loco_pct": [
+            64.63414634146342,
+            67.94871794871796
+          ]
+        }
+      }
+    },
+    "3": {
+      "joint_continuity": {
+        "events": 14,
+        "n": 80,
+        "pct": 17.5,
+        "bootstrap_95_pct": [
+          10.089449541284406,
+          26.923076923076923
+        ],
+        "loco_pct": [
+          15.584415584415584,
+          19.17808219178082
+        ]
+      },
+      "fossil_continuity": {
+        "events": 19,
+        "n": 80,
+        "pct": 23.75,
+        "bootstrap_95_pct": [
+          15.853658536585366,
+          32.857142857142854
+        ],
+        "loco_pct": [
+          22.07792207792208,
+          26.027397260273972
+        ]
+      },
+      "endpoint_retention": {
+        "events": 51,
+        "n": 80,
+        "pct": 63.75,
+        "bootstrap_95_pct": [
+          51.470588235294116,
+          74.28667953667946
+        ],
+        "loco_pct": [
+          61.64383561643836,
+          67.12328767123287
+        ]
+      },
+      "fossil_minus_joint": {
+        "events": 5,
+        "n": 80,
+        "pct": 6.25,
+        "bootstrap_95_pct": [
+          2.1505376344086025,
+          10.416666666666668
+        ],
+        "loco_pct": [
+          5.333333333333334,
+          6.944444444444445
+        ]
+      },
+      "endpoint_minus_joint": {
+        "events": 37,
+        "n": 80,
+        "pct": 46.25,
+        "bootstrap_95_pct": [
+          34.285714285714285,
+          56.25
+        ],
+        "loco_pct": [
+          43.83561643835616,
+          48.05194805194805
+        ]
+      },
+      "endpoint_minus_fossil": {
+        "events": 32,
+        "n": 80,
+        "pct": 40.0,
+        "bootstrap_95_pct": [
+          30.263157894736842,
+          48.10126582278481
+        ],
+        "loco_pct": [
+          37.5,
+          41.55844155844156
+        ]
+      },
+      "retention_given_joint_failure": {
+        "events": 37,
+        "n": 66,
+        "pct": 56.06060606060606,
+        "bootstrap_95_pct": [
+          42.3728813559322,
+          67.74193548387096
+        ],
+        "loco_pct": [
+          53.333333333333336,
+          59.32203389830508
+        ]
+      },
+      "magnitude": {
+        "change_pct_q25_median_q75": [
+          -10.685781306945842,
+          -3.6609587691006986,
+          2.9500051235878706
+        ],
+        "sum_episode_change_twh": -1053.6605191999997,
+        "failure_change_pct_q25_median_q75": [
+          -9.01975754107555,
+          -1.1629769442175735,
+          4.245259328279612
+        ]
+      },
+      "trend": [
+        {
+          "exclude_2020": false,
+          "n": 80,
+          "country_clusters": 19,
+          "estimate_pp": 1.3637349088894204,
+          "se_pp": 0.8781695205974124,
+          "p_normal": 0.12044009947435963,
+          "p_t_clusters_minus_1": 0.1378454768835662
+        },
+        {
+          "exclude_2020": true,
+          "n": 74,
+          "country_clusters": 18,
+          "estimate_pp": 1.8105294615729437,
+          "se_pp": 0.998933549526906,
+          "p_normal": 0.06991478436564291,
+          "p_t_clusters_minus_1": 0.08761391813573978
+        }
+      ],
+      "retention_sensitivity": {
+        "exclude_2020": {
+          "events": 49,
+          "n": 74,
+          "pct": 66.21621621621621,
+          "bootstrap_95_pct": [
+            54.166666666666664,
+            76.62337662337663
+          ],
+          "loco_pct": [
+            64.70588235294117,
+            70.1492537313433
+          ]
+        },
+        "0.001": {
+          "events": 50,
+          "n": 80,
+          "pct": 62.5,
+          "bootstrap_95_pct": [
+            50.632520706360374,
+            73.23943661971832
+          ],
+          "loco_pct": [
+            60.273972602739725,
+            65.75342465753424
+          ]
+        },
+        "0.0025": {
+          "events": 48,
+          "n": 80,
+          "pct": 60.0,
+          "bootstrap_95_pct": [
+            48.484848484848484,
+            70.78651685393258
+          ],
+          "loco_pct": [
+            58.108108108108105,
+            63.013698630136986
+          ]
+        }
+      }
+    }
+  },
+  "D_next_directional": {
+    "Fossil displacement": 65,
+    "Additive expansion": 36,
+    "Fossil resurgence": 33,
+    "Joint contraction": 11
+  },
+  "D_origin_directional_n": 145,
+  "demand": {
+    "displacement_n": 152,
+    "nondecreasing_n": 80,
+    "missing_demand_growth_in_D": 0
+  },
+  "period_displacement_pct": {
+    "2000": 14.736842105263156,
+    "2005": 23.157894736842106,
+    "2010": 31.57894736842105,
+    "2015": 44.21052631578947,
+    "2020": 46.31578947368421
+  },
+  "aggregate_2000_2024": {
+    "2000": {
+      "renewables_electricity": 1906.649991356,
+      "fossil_electricity": 7752.010125729999,
+      "electricity_generation": 11779.43016898
+    },
+    "2024": {
+      "renewables_electricity": 7643.650087455,
+      "fossil_electricity": 14588.48027384,
+      "electricity_generation": 24561.760008600002
+    },
+    "change_pct": {
+      "renewables_electricity": 300.89424499033896,
+      "fossil_electricity": 88.18964419846158,
+      "electricity_generation": 108.51399139222409
+    }
+  },
+  "kaplan_meier_primary": {
+    "2": 43.67816091954023,
+    "3": 22.429325877601737
+  },
+  "duration_sensitivities": [
+    {
+      "specification": "state_threshold_010",
+      "n_years": 142,
+      "n_episodes": 83,
+      "km_SD2": 43.37349397590361,
+      "km_SD3": 20.48192771084337
+    },
+    {
+      "specification": "state_threshold_025",
+      "n_years": 133,
+      "n_episodes": 79,
+      "km_SD2": 43.0379746835443,
+      "km_SD3": 18.258534714230915
+    },
+    {
+      "specification": "demand_conditioned",
+      "n_years": 80,
+      "n_episodes": 64,
+      "km_SD2": 32.8125,
+      "km_SD3": 4.687500000000002
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+specification,specification_key,regime,n,share_all,share_all_pct
+Primary sign-based,primary,Additive expansion,178,0.3747368421,37.47368421
+Primary sign-based,primary,Fossil displacement,152,0.32,32
+Primary sign-based,primary,Fossil resurgence,111,0.2336842105,23.36842105
+Primary sign-based,primary,Joint contraction,21,0.04421052632,4.421052632
+Primary sign-based,primary,Boundary,13,0.02736842105,2.736842105
+0.10% material-change threshold,threshold_010,Additive expansion,157,0.3305263158,33.05263158
+0.10% material-change threshold,threshold_010,Fossil displacement,142,0.2989473684,29.89473684
+0.10% material-change threshold,threshold_010,Fossil resurgence,101,0.2126315789,21.26315789
+0.10% material-change threshold,threshold_010,Joint contraction,19,0.04,4
+0.10% material-change threshold,threshold_010,Boundary,56,0.1178947368,11.78947368
+0.25% material-change threshold,threshold_025,Additive expansion,137,0.2884210526,28.84210526
+0.25% material-change threshold,threshold_025,Fossil displacement,133,0.28,28
+0.25% material-change threshold,threshold_025,Fossil resurgence,83,0.1747368421,17.47368421
+0.25% material-change threshold,threshold_025,Joint contraction,13,0.02736842105,2.736842105
+0.25% material-change threshold,threshold_025,Boundary,109,0.2294736842,22.94736842
