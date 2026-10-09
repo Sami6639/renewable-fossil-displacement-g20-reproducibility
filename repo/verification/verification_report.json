@@ -1,0 +1,23 @@
+{
+  "source_sha256": "77b3db513f02f5fffb69fe02832907ce70b01d3906fc2c5dd40fa47e3ee7d0f3",
+  "codebook_sha256": "3cc9b7db0d921496e2988568ce3aee5ed41f50431dd234a0663b5f0a4b2e32bb",
+  "checks": {
+    "panel_rows_475": true,
+    "countries_19": true,
+    "primary_boundary_13": true,
+    "threshold_010_boundary_56": true,
+    "threshold_025_boundary_109": true,
+    "primary_directional_pairs_442": true,
+    "primary_addition_178": true,
+    "primary_displacement_152": true,
+    "primary_resurgence_111": true,
+    "primary_contraction_21": true,
+    "p_AD_26_5pct": true,
+    "p_AA_48_8pct": true,
+    "p_DD_44_8pct": true,
+    "p_DA_24_8pct": true,
+    "trend_n_330": true,
+    "secondary_n_156_145": true
+  },
+  "all_checks_pass": true
+}

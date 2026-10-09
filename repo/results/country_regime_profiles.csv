@@ -1,0 +1,69 @@
+country,iso_code,state_primary,n,country_n,share_pct
+Argentina,ARG,Additive expansion,7,25,28
+Argentina,ARG,Fossil displacement,7,25,28
+Argentina,ARG,Fossil resurgence,9,25,36
+Argentina,ARG,Joint contraction,2,25,8
+Australia,AUS,Additive expansion,8,25,32
+Australia,AUS,Fossil displacement,11,25,44
+Australia,AUS,Fossil resurgence,5,25,20
+Australia,AUS,Joint contraction,1,25,4
+Brazil,BRA,Additive expansion,6,25,24
+Brazil,BRA,Fossil displacement,12,25,48
+Brazil,BRA,Fossil resurgence,6,25,24
+Brazil,BRA,Joint contraction,1,25,4
+Canada,CAN,Additive expansion,3,25,12
+Canada,CAN,Fossil displacement,11,25,44
+Canada,CAN,Fossil resurgence,7,25,28
+Canada,CAN,Joint contraction,4,25,16
+China,CHN,Additive expansion,22,25,88
+China,CHN,Fossil displacement,1,25,4
+China,CHN,Fossil resurgence,2,25,8
+France,FRA,Additive expansion,3,25,12
+France,FRA,Fossil displacement,10,25,40
+France,FRA,Fossil resurgence,9,25,36
+France,FRA,Joint contraction,3,25,12
+Germany,DEU,Additive expansion,12,25,48
+Germany,DEU,Fossil displacement,12,25,48
+Germany,DEU,Fossil resurgence,1,25,4
+India,IND,Additive expansion,15,25,60
+India,IND,Fossil displacement,2,25,8
+India,IND,Fossil resurgence,8,25,32
+Indonesia,IDN,Additive expansion,16,25,64
+Indonesia,IDN,Fossil displacement,1,25,4
+Indonesia,IDN,Fossil resurgence,8,25,32
+Italy,ITA,Additive expansion,4,25,16
+Italy,ITA,Fossil displacement,11,25,44
+Italy,ITA,Fossil resurgence,10,25,40
+Japan,JPN,Additive expansion,6,25,24
+Japan,JPN,Fossil displacement,12,25,48
+Japan,JPN,Fossil resurgence,5,25,20
+Japan,JPN,Joint contraction,2,25,8
+Mexico,MEX,Additive expansion,9,25,36
+Mexico,MEX,Fossil displacement,6,25,24
+Mexico,MEX,Fossil resurgence,10,25,40
+Russia,RUS,Additive expansion,11,25,44
+Russia,RUS,Fossil displacement,5,25,20
+Russia,RUS,Fossil resurgence,8,25,32
+Russia,RUS,Joint contraction,1,25,4
+Saudi Arabia,SAU,Additive expansion,11,25,44
+Saudi Arabia,SAU,Boundary,13,25,52
+Saudi Arabia,SAU,Fossil displacement,1,25,4
+South Africa,ZAF,Additive expansion,9,25,36
+South Africa,ZAF,Fossil displacement,11,25,44
+South Africa,ZAF,Fossil resurgence,3,25,12
+South Africa,ZAF,Joint contraction,2,25,8
+South Korea,KOR,Additive expansion,12,25,48
+South Korea,KOR,Fossil displacement,7,25,28
+South Korea,KOR,Fossil resurgence,6,25,24
+Türkiye,TUR,Additive expansion,6,25,24
+Türkiye,TUR,Fossil displacement,9,25,36
+Türkiye,TUR,Fossil resurgence,9,25,36
+Türkiye,TUR,Joint contraction,1,25,4
+United Kingdom,GBR,Additive expansion,9,25,36
+United Kingdom,GBR,Fossil displacement,12,25,48
+United Kingdom,GBR,Fossil resurgence,3,25,12
+United Kingdom,GBR,Joint contraction,1,25,4
+United States,USA,Additive expansion,9,25,36
+United States,USA,Fossil displacement,11,25,44
+United States,USA,Fossil resurgence,2,25,8
+United States,USA,Joint contraction,3,25,12
